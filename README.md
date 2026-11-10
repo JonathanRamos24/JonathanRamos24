@@ -21,14 +21,14 @@ Carpooling para estudiantes universitarios de todo Ecuador. El pasajero sube sol
 
 *React Native, Node.js, PostgreSQL, Redis, Socket.io*
 
-[alata-ec.com](https://alata-ec.com) | [Google Play](https://play.google.com/store/apps/details?id=com.alataec.app) | [App Store](https://apps.apple.com/app/id6818165556)
+[alata-ec.com](https://alata-ec.com/) | [Google Play](https://play.google.com/store/apps/details?id=com.alataec.app) | [App Store](https://apps.apple.com/ec/app/alata-viajes-universitarios/id6818165556)
 
 ### Doxi
 Agentes de IA que atienden, agendan citas y venden por WhatsApp, Instagram, Messenger y web. Un mismo agente responde en los cuatro canales y pasa la conversación a una persona cuando el caso lo pide.
 
 *Node.js, React, PostgreSQL, Redis, API de Claude, API de Meta, Twilio, Stripe*
 
-[ai-bots.us](https://ai-bots.us)
+[ai-bots.us](https://ai-bots.us/)
 
 ### Brokeate
 Robo-advisor hecho en equipo que ganó el Agentic Scale Hackathon. Arma un portafolio de inversión según tu perfil de riesgo; un asesor humano aprueba cada propuesta y un agente de IA explica los números sin inventarlos.
@@ -53,5 +53,5 @@ Sistema web con el que un consultorio odontológico maneja su día: historia cl�
 ## Contacto
 
 - Correo: [jramos24david@gmail.com](mailto:jramos24david@gmail.com)
-- LinkedIn: [jonathan-ramos](https://linkedin.com/in/jonathan-ramos-470432441)
+- LinkedIn: [jonathan-ramos](https://www.linkedin.com/in/jonathan-ramos-470432441/)
 - Portafolio: [jonathanramos.vercel.app](https://jonathanramos.vercel.app/)
