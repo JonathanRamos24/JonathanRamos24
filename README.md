@@ -52,7 +52,11 @@ Sistema web con el que un consultorio odontológico maneja su día: historia cl�
 
 ## Experiencia
 
-- **Dox S.A.** | Desarrollador de Sistemas y Software | 2025 - actualidad. APIs REST y PostgreSQL con roles y permisos, integraciones con Meta, Claude, Stripe, Datafast y Twilio, pruebas con Vitest e integración continua.
+- **Dox S.A.** | Desarrollador de Sistemas y Software | 2025 - actualidad
+  - Desarrollo apps web, móviles y backend para varios proyectos en paralelo, del requerimiento a producción.
+  - Diseño APIs REST y bases de datos PostgreSQL con autenticación JWT, roles, permisos y tareas programadas.
+  - Integro servicios como la API de Meta, Claude, Stripe, Datafast y Twilio, y automatizo flujos con n8n.
+  - Hago pruebas con Vitest y mantengo la integración continua con GitHub Actions.
 - **ESPOL** | Ingeniería en Ciencias de la Computación, tercer año (en curso).
 - **Cisco Networking Academy** | CCNA: Introducción a las Redes (2026).
 
