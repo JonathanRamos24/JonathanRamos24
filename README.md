@@ -13,6 +13,7 @@ Construyo plataformas con IA, apps móviles publicadas en tiendas y sistemas de 
 - **Frontend y móvil:** React, React Native (Expo), Vite, Tailwind, HTML, CSS
 - **Herramientas:** AWS, Docker, Stripe, Datafast, Git, Cisco Packet Tracer
 - **Lenguajes:** JavaScript, TypeScript, Python, Java, C, SQL
+- **Idiomas:** Español (nativo), inglés (intermedio)
 
 ## Proyectos destacados
 
@@ -43,6 +44,11 @@ Sistema web con el que un consultorio odontológico maneja su día: historia cl�
 *React, TypeScript, Node.js, PostgreSQL, Docker*
 
 > Los repositorios de estos proyectos son privados porque pertenecen a la empresa o a clientes.
+
+### Proyectos académicos (ESPOL)
+- **Sudoku como grafo 3D** (Matemáticas Discretas): resolver el sudoku es colorear un grafo con nueve colores. Se expuso en la feria de proyectos. *React, Three.js*
+- **EcoTrack** (Estructuras de Datos): rutas de recolección de residuos con listas, colas y pilas hechas desde cero. *Java, JavaFX*
+- **Alineación de cadenas** (Análisis de Algoritmos): Needleman-Wunsch con programación dinámica. *Python*
 
 ## Experiencia
 
