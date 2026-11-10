@@ -43,3 +43,15 @@ Sistema web con el que un consultorio odontológico maneja su día: historia cl�
 *React, TypeScript, Node.js, PostgreSQL, Docker*
 
 > Los repositorios de estos proyectos son privados porque pertenecen a la empresa o a clientes.
+
+## Experiencia
+
+- **Dox S.A.** | Desarrollador de Sistemas y Software | 2025 - actualidad. APIs REST y PostgreSQL con roles y permisos, integraciones con Meta, Claude, Stripe, Datafast y Twilio, pruebas con Vitest e integración continua.
+- **ESPOL** | Ingeniería en Ciencias de la Computación, tercer año (en curso).
+- **Cisco Networking Academy** | CCNA: Introducción a las Redes (2026).
+
+## Contacto
+
+- Correo: [jramos24david@gmail.com](mailto:jramos24david@gmail.com)
+- LinkedIn: [jonathan-ramos](https://linkedin.com/in/jonathan-ramos-470432441)
+- Portafolio: [jonathanramos.vercel.app](https://jonathanramos.vercel.app/)
